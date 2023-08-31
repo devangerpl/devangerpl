@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/devangerpl/devangerpl/main/logopng.png">
+<img src="https://raw.githubusercontent.com/devangerpl/devangerpl/main/logopng3.png">
 <h1 align="center">Hi, I'm Adrian 'Devanger' Kraus</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
